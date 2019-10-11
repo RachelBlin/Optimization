@@ -12,4 +12,4 @@ This project will contain a tutorial to use the newton_krylov solver scipy.optim
 
 ## Authors
 
-* **Rachel Blin** - *Subjects and Corrections* - [Website](http://pagesperso.litislab.fr/rblin/)
+* **Rachel Blin** - *Programs and theorical parts* - [Website](http://pagesperso.litislab.fr/rblin/)
